@@ -10,6 +10,14 @@ public class Client {
 		BMWCar bmw = f.createBMW();
 		benzi.drive();
 		bmw.drive();
+		
+		
+		
+		Factory f2 = new BussinessCarFactory();
+		BenziCar benzi2 = f2.createBenz();
+		BMWCar bmw2 = f2.createBMW();
+		benzi2.drive();
+		bmw2.drive();
 	}
 
 }
