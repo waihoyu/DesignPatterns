@@ -1,8 +1,7 @@
 package abstractFactory;
 
 /**
- * ±¼³ÛÆû³µ³éÏó²úÆ·Àà
- * 
+ * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ·ï¿½ï¿½æˆ‘ä¸çŸ¥é“çš„
  * @author WaiHoYu
  *
  */
